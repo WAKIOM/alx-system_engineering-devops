@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-writing shell scripts
+  writing Shell scripts in ubuntu 20.04
