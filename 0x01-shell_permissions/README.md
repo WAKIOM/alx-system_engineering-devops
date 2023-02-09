@@ -10,3 +10,4 @@ chmod 007 hello -- script that gives user and group users no permission at all b
 chmod 753 hello --- a script that gives the user all permissions, groups to read and execute and other users to write and execute
 chmod --reference=olleh hello --  a script that sets the mode of the file hello the same as olleh’s mode.
 chmod -R ugo+X . --script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+mkdir -m 751 my_dir --  a script that creates a directory called my_dir with permissions 751 in the working directory
