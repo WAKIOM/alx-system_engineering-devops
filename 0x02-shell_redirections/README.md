@@ -6,7 +6,7 @@
 
 |filename|      |description|
 
-+ |`0-hello_world`| prints hello world
++ `0-hello_world` - prints hello world
 
 + `1-confused_smiley` - prints the confused smiley
 
@@ -15,3 +15,5 @@
 + `3-twofiles`  -  Displays the content of /etc/passwd and /etc/hosts
 
 + `4-lastlines` -   Displays the last 10 lines of /etc/passwd
++ `5-firstlines` - Displays the first 10 lines of /etc/passwd
+
