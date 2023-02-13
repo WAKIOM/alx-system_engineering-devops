@@ -22,3 +22,4 @@
 + `9-duplicate_last_line`- a script that duplicates the last line of `iacta` 
 + ` 10-no_more_js`- removes all files with the extension `.js` in the current directory and all its sub direcctories
 + `11-directories`-  that counts the number of directories and sub-directories in the current directory without counting The current and parent directories 
++ `12-newest_files`-  a script that displays the 10 newest files in the current directory one file per line sorted from the newest to the oldest
