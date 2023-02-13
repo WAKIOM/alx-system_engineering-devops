@@ -21,3 +21,4 @@
 + `8-cwd_state` - a script that  into the file `ls_cwd_content` the result of the command ls -la by overwriting any existing content
 + `9-duplicate_last_line`- a script that duplicates the last line of `iacta` 
 + ` 10-no_more_js`- removes all files with the extension `.js` in the current directory and all its sub direcctories
++ `11-directories`-  that counts the number of directories and sub-directories in the current directory without counting The current and parent directories 
