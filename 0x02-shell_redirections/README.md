@@ -23,3 +23,4 @@
 + ` 10-no_more_js`- removes all files with the extension `.js` in the current directory and all its sub direcctories
 + `11-directories`-  that counts the number of directories and sub-directories in the current directory without counting The current and parent directories 
 + `12-newest_files`-  a script that displays the 10 newest files in the current directory one file per line sorted from the newest to the oldest
++ `13-unique`- a script that takes a list of words as input and prints only words that appear exactly once
