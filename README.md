@@ -1,2 +1,4 @@
 # alx-system_engineering-devops
-  writing Shell scripts in ubuntu 20.04
+ # A repository for submitting all my assignments
+ 
+  # Bash scripts tested in ubuntu 20.04
