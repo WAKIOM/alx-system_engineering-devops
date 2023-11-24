@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill signal
+
+kill P1990 $$
