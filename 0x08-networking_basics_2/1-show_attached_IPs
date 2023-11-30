@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script dislays all active IPV4 IPs on the machine it's executed on
+
+ifconfig | grep -o 'inet [^ ]*' | cut -d ' ' -f 2
